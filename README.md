@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Pranav Patil 👋
 
-<!--
-**pranav767/pranav767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/pranav-patil-4b70071b9/) ·
+[Blog](https://0xpranav.hashnode.dev) ·
+[GitHub](https://github.com/pranav767)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a software engineer focused on **cloud-native infrastructure and Kubernetes internals**.  
+I enjoy working close to the OS, storage, and platform layers, and I actively contribute to **open-source projects**.
+
+---
+
+### 🧠 Interests
+
+- Kubernetes internals  
+- Talos Linux  
+- Storage (LVM, CSI)  
+- Go & systems programming  
+- Infrastructure automation  
+
+---
+
+### ✍️ Writing
+
+- Blog: https://0xpranav.hashnode.dev
+
+---
+
+### 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/pranav-patil-4b70071b9/
