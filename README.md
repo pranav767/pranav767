@@ -1,4 +1,4 @@
-## Hi there, I'm Pranav Patil 👋
+## Hi there, I'm Pranav 👋
 
 [LinkedIn](https://www.linkedin.com/in/pranav-patil-4b70071b9/) ·
 [Blog](https://0xpranav.hashnode.dev) ·
@@ -16,8 +16,7 @@ I enjoy working close to the OS, storage, and platform layers, and I actively co
 ### 🧠 Interests
 
 - Kubernetes internals  
-- Talos Linux  
-- Storage (LVM, CSI)  
+- Talos Linux
 - Go & systems programming  
 - Infrastructure automation  
 
